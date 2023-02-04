@@ -19,7 +19,7 @@ body {
     left: 0;
     top: 0;
     background-size:cover;
-    font-family: cursive;
+    font-family: sans-serif;
     margin: 0;
 }
 
@@ -128,7 +128,7 @@ main {
   border: none;
   font-size: 1.15rem;
   cursor: pointer;
-  font-family: cursive;;
+  font-family: sans-serif;
   font-weight: bold;
 }
 #generate-button {
@@ -321,7 +321,7 @@ main {
       width:20px; height:20px; position:absolute;
       background-color:orange;
       right:30px; top:0; bottom:0; margin:auto; padding:5px; font-weight:normal;
-      font-family:cursive;
+      font-family:sans-serif;
 }
 .button-type input:not(:valid) ~ .close-icon {
       display:none;
